@@ -1,0 +1,10 @@
+{
+	"require": {
+		"socialconnect/auth": "^1.6",
+		"symfony/var-dumper": "~3.2.2",
+		"guzzlehttp/guzzle": "~6.2.2",
+		"google/apiclient": "^2.0",
+		"io-developer/php-whois": "^2.3",
+		"zendesk/zendesk_api_client_php": "^2.2"
+	}
+}
